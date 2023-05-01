@@ -1,2 +1,2 @@
-Inline-style: 
-![alt text](Untitled-2.png "Logo Title Text 1")
+#h1 Ben Steel Sound
+![alt text](Untitled-2.png "Ben Steel Sound")
