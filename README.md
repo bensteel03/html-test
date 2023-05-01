@@ -6,7 +6,7 @@
 		<style>
 			h1 {
 				font-family: Arial, sans-serif;
-				color: #2f2d2d;
+				color: #df3a3a;
 				text-align: default;
 			}
 			p {
